@@ -1,2 +1,1 @@
-# 2015.jsfest.berlin
-JSFest.Berlin 2015
+[JSFest.Berlin 2015](http://jsfest.berlin)
